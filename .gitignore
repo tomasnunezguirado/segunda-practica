@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+
+# Ignorar todos los archivos que comiencen con .env
+.env*
+
+# Excepto .env.example
+!.env.example
